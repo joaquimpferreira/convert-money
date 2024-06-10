@@ -6,7 +6,7 @@
 <br>
 
 <img align="left" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20dolar.png">
-<img aling='right' src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png" >
+<img aling="right" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png" >
 <br>
 
 <p align="center">
