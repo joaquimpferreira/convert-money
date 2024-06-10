@@ -5,8 +5,12 @@
 </h4>
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20dolar.png">
-<img aling="center" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png" >
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20dolar.png">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png">
+</p>
 <br>
 
 <p align="center">
