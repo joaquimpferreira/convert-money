@@ -1,12 +1,12 @@
-<h1 align="center">We Care</h1>
+<h1 align="center">Convert Money</h1>
 
 <h4 align="center">
   Javascript study project
 </h4>
 <br>
 
-<img  align="left" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20dolar.png">
-<img src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png" >
+<img align="left" src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20dolar.png">
+<img aling='right' src="https://raw.githubusercontent.com/joaquimpferreira/convert-money/main/assets/preview%20capture%20bitcoin.png" >
 <br>
 
 <p align="center">
