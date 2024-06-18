@@ -6,21 +6,23 @@
 }
 
 body{
-    background-color: #e5e5e5;
+    background-color: #0C0C0D;
 }
 
 
 .container{
     width: 375px;
-    background-color: #F4F4F4;
+    background-color: #252526;
     margin: 0 auto;
     margin-top: 80px;
+    border-radius: 7px;
 
 }
 
 header{
-    background-color: #1B83E2;
+    background-image: linear-gradient(335deg, #93a9ff 0, #3c78f2 50%, #004ccc 100%);
     height: 66px;
+    border-radius: 7px 7px 0 0;
     
 }
 
@@ -42,11 +44,11 @@ label{
     font-size: 14px;
     font-weight: 400;
     line-height: 18px;
-    color:  #777777;
+    color:  #FFFFFF;
 }
 
 select{
-    background-color: #FFFFFF;
+    background-color: #252526;
     display: block;
     width: 100%;
     height: 48px;
@@ -59,6 +61,7 @@ select{
     box-shadow: 2px 2px 5px 0px #00000026;
     margin-top: 6px;
     margin-bottom: 24px;
+    color: #A6A6A6;
 
 }
 
@@ -67,8 +70,9 @@ input::-webkit-inner-spin-button {
 }
 
 input{
+    color: #FFFFFF;
     border: 1px solid #BBBBBB;
-    background-color: #FFFFFF;
+    background-color: #252526;
     display: block;
     width: 100%;
     height: 48px;
@@ -85,7 +89,7 @@ button{
     height: 48px;
     width: 100%;
     border-radius: 25px;
-    background-color: #1B83E2;
+    background-image: linear-gradient(335deg, #93a9ff 0, #3c78f2 50%, #004ccc 100%);
     border: none;
     cursor: pointer;
     font-size: 16px;
@@ -104,7 +108,7 @@ button:active{
 }
 
 section{
-    border: 1px solid #1B83E2;
+    border: 1px solid #FFFFFF;
     border-radius: 4px;
 }
 
@@ -130,7 +134,7 @@ img{
 }
 
 .current-value{
-    color: #1B83E2;
+    color: #FFFFFF;
     font-size: 20px;
     font-weight: 700;
     line-height: 18px;
